@@ -12,6 +12,7 @@ Canal no youtube que oferece cursos grátis de desenvolvimento web.
 
 ### Links úteis
 [Video aulas do curso](https://www.youtube.com/watch?v=opV18_e_1tU&list=PLhUlhohzo17rBszJ76QCFt1wviNHv1oTW)
+
 [Cursos do instrutor na Udemy](https://www.udemy.com/user/fabio-souza-19/)
 
 ## Visualize o projeto online:
